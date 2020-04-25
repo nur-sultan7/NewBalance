@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New Balance</string>
+    <string name="teacher_name_label">Имя преподавателя:</string>
+    <string name="place_name_label">Название зала:</string>
+    <string name="start_time_label">Начало</string>
+    <string name="end_time_label">Конец</string>
+    <string name="lassen_description_label">Описание занятия:</string>
+</resources>
